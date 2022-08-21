@@ -1,0 +1,15 @@
+#carousel{
+    background-color: #42f5ce;
+    padding: 7% 10%;
+}
+.car-img{
+    height: 400px;
+    width: 300px;
+    border-radius: 50%;
+}
+.carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+}
+
+
